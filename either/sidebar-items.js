@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Either","`Either` represents an alternative holding one value out of either of the two possible values."]]});
